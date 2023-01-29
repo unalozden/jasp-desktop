@@ -9,15 +9,15 @@ msgstr ""
 
 msgctxt "ComponentsList|"
 msgid "Add a row"
-msgstr ""
+msgstr "Satır ekle"
 
 msgctxt "ComponentsList|"
 msgid "Remove a row"
-msgstr ""
+msgstr "Satır sil"
 
 msgctxt "FileSelector|"
 msgid "Save file to:"
-msgstr ""
+msgstr "Dosyay"
 
 msgctxt "FileSelector|"
 msgid "Load file from:"
