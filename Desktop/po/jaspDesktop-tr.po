@@ -17,87 +17,87 @@ msgstr "Satır sil"
 
 msgctxt "FileSelector|"
 msgid "Save file to:"
-msgstr "Dosyay"
+msgstr "Dosyayı şuraya kaydet"
 
 msgctxt "FileSelector|"
 msgid "Load file from:"
-msgstr ""
+msgstr "Dosyayı şuradan yükle"
 
 msgctxt "FileSelector|"
 msgid "Select file to save"
-msgstr ""
+msgstr "Kaydetmek için dosyayı seç"
 
 msgctxt "FileSelector|"
 msgid "Select file to load"
-msgstr ""
+msgstr "Yüklemek için dosyayı seç"
 
 msgctxt "FileSelector|"
 msgid "Browse"
-msgstr ""
+msgstr "Ara"
 
 msgctxt "Form|"
 msgid ""
 "This analysis was created with an older version of JASP (or a dynamic module)"
-msgstr ""
+msgstr "Bu analiz, JASP'nin eski bir sürümüyle (veya bir dinamik modülle) oluşturulmuştur."
 
 msgctxt "Form|"
 msgid ", refreshing could give a slightly different result."
-msgstr ""
+msgstr ", yenileme biraz farklı bir sonuç verebilir."
 
 msgctxt "Form|"
 msgid ""
 ", to keep your notes where they are it is highly recommended to first "
 "refresh your analyses!"
-msgstr ""
+msgstr ", notlarınızı oldukları yerde tutmak için öncelikle analizlerinizi yenilemeniz önemle tavsiye edilir!"
 
 msgctxt "InputListView|"
 msgid "New Value"
-msgstr ""
+msgstr "Yeni Değer"
 
 msgctxt "ModelTermsList|"
 msgid "Model Terms"
-msgstr ""
+msgstr "Model Terimleri"
 
 msgctxt "ModelTermsList|"
 msgid "Add to null model"
-msgstr ""
+msgstr "Model ekle"
 
 msgctxt "TableView|"
 msgid "Row #"
-msgstr ""
+msgstr "Satır #"
 
 msgctxt "TabView|"
 msgid "Add a tab"
-msgstr ""
+msgstr "Sekme Ekle"
 
 msgctxt "TabView|"
 msgid "Remove this tab"
-msgstr ""
+msgstr "Bu sekmeyi kaldır"
 
 msgctxt "TabView|"
 msgid "New tab"
-msgstr ""
+msgstr "Yeni sekme"
 
 msgctxt "TextArea|"
 msgid "⌘ + Enter to apply"
-msgstr ""
+msgstr "Uygulamak için ⌘ + Enter kısayolunu kullan"
 
 msgctxt "TextArea|"
 msgid "Ctrl + Enter to apply"
-msgstr ""
+msgstr "Uygulamak için Ctrl + Enter kısayolunu kullan"
 
 #, qt-format
 msgctxt "TextField|"
 msgid "Restoring last correct value: %1"
-msgstr ""
+msgstr "Son doğru değeri geri yükleme: %1"
 
 msgctxt "AboutWindow|"
 msgid "About JASP"
-msgstr ""
+msgstr "JASP Hakkında"
 
 msgctxt "AboutWindow|"
 msgid "Version:"
-msgstr ""
+msgstr "Sürüm:"
 
 msgctxt "AboutWindow|"
 msgid "Built on:"
@@ -105,23 +105,23 @@ msgstr ""
 
 msgctxt "AboutWindow|"
 msgid "Source:"
-msgstr ""
+msgstr "Kaynak:"
 
 msgctxt "AboutWindow|"
 msgid "Access the sources here"
-msgstr ""
+msgstr "Kaynaklara buradan erişin"
 
 msgctxt "AboutWindow|"
 msgid "Download:"
-msgstr ""
+msgstr "İndir"
 
 msgctxt "AboutWindow|"
 msgid "Citation:"
-msgstr ""
+msgstr "Atıf"
 
 msgctxt "AboutWindow|"
 msgid "Select All"
-msgstr ""
+msgstr "Hepsini Seç"
 
 msgctxt "AboutWindow|"
 msgid "Copy Selection"
@@ -129,51 +129,51 @@ msgstr ""
 
 msgctxt "AboutWindow|"
 msgid "BibTeX"
-msgstr ""
+msgstr "BibTeX"
 
 msgctxt "AboutWindow|"
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 msgctxt "AnalysisFormExpander|"
 msgid "Drag to reorder the analyses"
-msgstr ""
+msgstr "Analizleri yeniden sıralamak için sürükleyin"
 
 msgctxt "AnalysisFormExpander|"
 msgid "Edit the title of this analysis"
-msgstr ""
+msgstr "Bu analizin başlığını düzenleyin"
 
 msgctxt "AnalysisFormExpander|"
 msgid "Duplicate this analysis"
-msgstr ""
+msgstr "Bu analizi çoğaltın"
 
 msgctxt "AnalysisFormExpander|"
 msgid "Show info for this analysis"
-msgstr ""
+msgstr "Bu analiz için bilgileri göster"
 
 msgctxt "AnalysisFormExpander|"
 msgid "Remove this analysis"
-msgstr ""
+msgstr "Bu analizi sil"
 
 msgctxt "BasicThreeButtonTableView|"
 msgid "Add"
-msgstr ""
+msgstr "Ekle"
 
 msgctxt "BasicThreeButtonTableView|"
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 msgctxt "BasicThreeButtonTableView|"
 msgid "Reset"
-msgstr ""
+msgstr "Temizle"
 
 msgctxt "BayesFactorType|"
 msgid "Bayes Factor"
-msgstr ""
+msgstr "Bayes Faktor"
 
 msgctxt "BayesFactorType|"
 msgid "BF₁₀"
-msgstr ""
+msgstr "BF₁₀"
 
 msgctxt "BayesFactorType|"
 msgid ""
@@ -183,7 +183,7 @@ msgstr ""
 
 msgctxt "BayesFactorType|"
 msgid "BF₀₁"
-msgstr ""
+msgstr "BF₀₁"
 
 msgctxt "BayesFactorType|"
 msgid ""
@@ -193,127 +193,131 @@ msgstr ""
 
 msgctxt "BayesFactorType|"
 msgid "Log(BF₁₀)"
-msgstr ""
+msgstr "Log(BF₁₀)"
 
 msgctxt "BayesFactorType|"
 msgid "Natural logarithm of BF10."
-msgstr ""
+msgstr "BF10'un doğal logaritması."
 
 msgctxt "Chi2TestTableView|"
 msgid "Add Column"
-msgstr ""
+msgstr "Sütun Ekle"
 
 msgctxt "Chi2TestTableView|"
 msgid "Delete Column"
-msgstr ""
+msgstr "Sütun Sil"
 
 msgctxt "Chi2TestTableView|"
 msgid "Reset"
-msgstr ""
+msgstr "Temizle"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Computed Column: "
-msgstr ""
+msgstr "Hesaplanan Sütun"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Select a column"
-msgstr ""
+msgstr "Bir sütun seç"
 
 msgctxt "ComputeColumnWindow|"
 msgid "absolute value"
-msgstr ""
+msgstr "mutlaak değer"
 
 msgctxt "ComputeColumnWindow|"
 msgid "standard deviation"
-msgstr ""
+msgstr "standart sapma"
 
 msgctxt "ComputeColumnWindow|"
 msgid "variance"
-msgstr ""
+msgstr "varyans"
 
 msgctxt "ComputeColumnWindow|"
 msgid "summation"
-msgstr ""
+msgstr "toplama"
 
 msgctxt "ComputeColumnWindow|"
 msgid "product of values"
-msgstr ""
+msgstr "değerlerin çarpımı"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Standardizes the variable"
-msgstr ""
+msgstr "Değişkeni standartlaştırır"
 
 msgctxt "ComputeColumnWindow|"
 msgid "returns minimum of values"
-msgstr ""
+msgstr "değerlerin minimumunu verir"
 
 msgctxt "ComputeColumnWindow|"
 msgid "returns maximum of values"
-msgstr ""
+msgstr "değerlerin maksimumunu verir"
 
 msgctxt "ComputeColumnWindow|"
 msgid "mean"
-msgstr ""
+msgstr "aritmetik ortalama"
 
 msgctxt "ComputeColumnWindow|"
 msgid "rounds y to n decimals"
-msgstr ""
+msgstr "y'den n'ye ondalık sayıları yuvarlar"
 
 msgctxt "ComputeColumnWindow|"
 msgid "returns number of elements in y"
-msgstr ""
+msgstr "y'deki eleman sayısını verir"
 
 msgctxt "ComputeColumnWindow|"
 msgid "median"
-msgstr ""
+msgstr "medyan"
 
 msgctxt "ComputeColumnWindow|"
 msgid "natural logarithm"
-msgstr ""
+msgstr "doğal logaritma"
 
 msgctxt "ComputeColumnWindow|"
 msgid "base 2 logarithm"
-msgstr ""
+msgstr "2 tabanına göre logaritma"
 
 msgctxt "ComputeColumnWindow|"
 msgid "base 10 logarithm"
-msgstr ""
+msgstr "10 tabanına göre logartima"
 
 msgctxt "ComputeColumnWindow|"
 msgid "logarithm of y in 'base'"
-msgstr ""
+msgstr "'tabanına' göre y'nin logaritması"
 
 msgctxt "ComputeColumnWindow|"
 msgid "exponential"
-msgstr ""
+msgstr "üstel"
 
 msgctxt "ComputeColumnWindow|"
 msgid ""
 "Fisher's Z-transform (i.e., the inverse hyperbolic tangent) to transform "
 "correlations, numbers between -1 and 1 to the real line"
 msgstr ""
+"Fisher'ın Z-dönüşümü (yani, ters hiperbolik tanjant)" 
+"korelasyonları, -1 ile 1 arasındaki sayıları gerçek doğruya dönüştürmek için"
 
 msgctxt "ComputeColumnWindow|"
 msgid ""
 "Inverse Fisher's Z-transform (i.e., the hyperbolic tangent) to transform "
 "real numbers to numbers between -1 and 1"
 msgstr ""
+ "Fisher'ın Z-dönüşümünü (yani hiperbolik tanjant) ters çevirin."
+ "gerçek sayıları -1 ile 1 arasındaki sayılara dönüştürmek için"
 
 msgctxt "ComputeColumnWindow|"
 msgid "break your data up in numBreaks levels"
-msgstr ""
+msgstr "Verilerinizi numBreaks seviyelerine bölün."
 
 msgctxt "ComputeColumnWindow|"
 msgid "replace any missing values (NA) in column by the value in replaceWith"
-msgstr ""
+msgstr "sütundaki eksik değerleri (NA) replaceWith'deki değerle değiştirin"
 
 msgctxt "ComputeColumnWindow|"
-msgid "if-else statement"
+msgid "if-else ifadesi"
 msgstr ""
 
 msgctxt "ComputeColumnWindow|"
 msgid "returns true if string contains substring at least once"
-msgstr ""
+msgstr "dize en az bir kez alt dize içeriyorsa true değerini döndürür"
 
 msgctxt "ComputeColumnWindow|"
 msgid ""
@@ -367,15 +371,15 @@ msgstr ""
 
 msgctxt "ComputeColumnWindow|"
 msgid "generates data from a uniform distribution between min and max"
-msgstr ""
+msgstr "min ve maks arasında tekdüze bir dağılıma uygun veri üretir"
 
 msgctxt "ComputeColumnWindow|"
 msgid "generates data from a gamma distribution with specified shape and scale"
-msgstr ""
+msgstr "belirtilen şekil ve ölçekte bir gama dağılımına uygun veri üretir"
 
 msgctxt "ComputeColumnWindow|"
 msgid "generates data from an exponential distribution with specified rate"
-msgstr ""
+msgstr "belirtilen şekil ve ölçekte bir ustel dağılımına uygun veri üretir"
 
 msgctxt "ComputeColumnWindow|"
 msgid ""
@@ -386,19 +390,19 @@ msgstr ""
 msgctxt "ComputeColumnWindow|"
 msgid ""
 "generates data from a Weibull distribution with specified shape and scale"
-msgstr ""
+msgstr "belirtilen şekil ve ölçekte bir Weibull dağılımına uygun veri üretir"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Remove computed column"
-msgstr ""
+msgstr "Hesaplanan sütunu kaldır"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Show generated R code"
-msgstr ""
+msgstr "Oluşturulan R kodunu göster"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Compute column"
-msgstr ""
+msgstr "Hesaplama sütunu"
 
 msgctxt "ComputeColumnWindow|"
 msgid "Column computed"
@@ -3784,4 +3788,4 @@ msgstr ""
 
 msgctxt "PrefsData|"
 msgid "Choose codepage here"
-msgstr ""
+msgstr "Kod sayfasını buradan seçin"
