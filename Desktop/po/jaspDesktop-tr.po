@@ -1,5 +1,8 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-01-29 10:26+0000\n"
+"Last-Translator: unalozden <uozden@ticaret.edu.tr>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -448,7 +451,7 @@ msgstr ""
 
 msgctxt "ContrastsList|"
 msgid "difference"
-msgstr ""
+msgstr "fark"
 
 msgctxt "ContrastsList|"
 msgid "Helmert"
@@ -481,7 +484,7 @@ msgstr ""
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Name:"
-msgstr ""
+msgstr "İsim"
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Column name is already used, please choose a different one."
@@ -497,27 +500,27 @@ msgstr ""
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Scale"
-msgstr ""
+msgstr "Oransal (Aralıklı ve Oransal)"
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Ordinal"
-msgstr ""
+msgstr "Sıralı"
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Nominal"
-msgstr ""
+msgstr "İsimsel"
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Text"
-msgstr ""
+msgstr "Metin"
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Open Documentation"
-msgstr ""
+msgstr "Açık Belgelendirme"
 
 msgctxt "CreateComputeColumnDialog|"
 msgid "Create Column"
-msgstr ""
+msgstr "Sütun Oluştur"
 
 #, qt-format
 msgctxt "CreateComputeColumnDialog|"
@@ -542,7 +545,7 @@ msgstr ""
 
 msgctxt "CustomContrastsTableView|"
 msgid "Reset"
-msgstr ""
+msgstr "Temizle"
 
 msgctxt "DataTableView|"
 msgid "Hide filter"
@@ -1258,11 +1261,11 @@ msgstr ""
 
 msgctxt "JagsTableView|"
 msgid "Delete Data"
-msgstr ""
+msgstr "Veri Sil"
 
 msgctxt "JagsTableView|"
 msgid "Reset"
-msgstr ""
+msgstr "Temizle"
 
 msgctxt "JASPDataView|"
 msgid "Double click to edit data"
@@ -1294,7 +1297,7 @@ msgstr ""
 
 msgctxt "ModuleInstaller|"
 msgid "Select a JASP Module"
-msgstr ""
+msgstr "JASP Modülü Seç"
 
 msgctxt "ModuleInstaller|"
 msgid "<i>Browse for a JASP Module to see more information here</i>"
@@ -1311,23 +1314,23 @@ msgstr ""
 
 msgctxt "ModulesMenu|"
 msgid "Install a module"
-msgstr ""
+msgstr "Modül yükle"
 
 msgctxt "ModulesMenu|"
 msgid "Install Developer Module"
-msgstr ""
+msgstr "Geliştirici Modülü Yükle"
 
 msgctxt "ModulesMenu|"
 msgid "Installing Developer Module"
-msgstr ""
+msgstr "Geliştirici Modülü Yükleme"
 
 msgctxt "ModulesMenu|"
 msgid "Select a Developer Module"
-msgstr ""
+msgstr "Geliştirici Modülü Seç"
 
 msgctxt "ModulesMenu|"
 msgid "Install selected developer module"
-msgstr ""
+msgstr "Seçilen geliştirici modülünü yükle"
 
 msgctxt "ModulesMenu|"
 msgid "Installing developer module now"
@@ -1335,7 +1338,7 @@ msgstr ""
 
 msgctxt "ModulesMenu|"
 msgid "Ready"
-msgstr ""
+msgstr "Hazır"
 
 #, qt-format
 msgctxt "ModulesMenu|"
@@ -1397,91 +1400,91 @@ msgstr ""
 
 msgctxt "PlotEditingAxis|"
 msgid "Lower limit"
-msgstr ""
+msgstr "Alt limit"
 
 msgctxt "PlotEditingAxis|"
 msgid "Upper limit"
-msgstr ""
+msgstr "Üst limit"
 
 msgctxt "PlotEditor|"
 msgid "x-axis"
-msgstr ""
+msgstr "x-ekseni"
 
 msgctxt "PlotEditor|"
 msgid "y-axis"
-msgstr ""
+msgstr "y-ekseni"
 
 msgctxt "RCommanderWindow|"
 msgid "R in JASP"
-msgstr ""
+msgstr "JASP içinde R"
 
 msgctxt "RCommanderWindow|"
 msgid "Welcome to R in JASP!"
-msgstr ""
+msgstr "JASP'ta R'ye hoş geldiniz!"
 
 msgctxt "RCommanderWindow|"
 msgid "Run code"
-msgstr ""
+msgstr "Kodu çalıştır"
 
 msgctxt "RCommanderWindow|"
 msgid "Pressing Ctrl+Enter or F5 will also run the code"
-msgstr ""
+msgstr "Ctrl Enter veya F5'e basmak da kodu çalıştıracaktır."
 
 msgctxt "RCommanderWindow|"
 msgid "Clear output"
-msgstr ""
+msgstr "Çıktıyı temizle"
 
 msgctxt "RCommanderWindow|"
 msgid "Cleared..."
-msgstr ""
+msgstr "Temizlendi"
 
 msgctxt "SaveDiscardCancelDialog|"
 msgid "Changes were made"
-msgstr ""
+msgstr "Değişiklikler yapıldı"
 
 msgctxt "SaveDiscardCancelDialog|"
 msgid "There are unapplied changes; what would you like to do?"
-msgstr ""
+msgstr "Uygulanmamış değişiklikler var; ne yapmak istersin?"
 
 msgctxt "SaveDiscardCancelDialog|"
 msgid "Apply"
-msgstr ""
+msgstr "Uygula"
 
 msgctxt "SaveDiscardCancelDialog|"
 msgid "Discard"
-msgstr ""
+msgstr "Gözardı et"
 
 msgctxt "SaveDiscardCancelDialog|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 msgctxt "SetSeed|"
 msgid "Repeatability"
-msgstr ""
+msgstr "Tekrarlanabilirlik"
 
 msgctxt "SetSeed|"
 msgid "Set seed:"
-msgstr ""
+msgstr "Başlangıç sayısı belirle"
 
 msgctxt "SimpleTableView|"
 msgid "Add Column"
-msgstr ""
+msgstr "Sütun Ekle"
 
 msgctxt "SimpleTableView|"
 msgid "Delete Column"
-msgstr ""
+msgstr "Sütun Sil"
 
 msgctxt "SimpleTableView|"
 msgid "Reset"
-msgstr ""
+msgstr "Temizle"
 
 msgctxt "SortMenuButton|"
 msgid "Sort the items"
-msgstr ""
+msgstr "Ögeleri sırala"
 
 msgctxt "SubjectivePriors|"
 msgid "Prior"
-msgstr ""
+msgstr "Önceki"
 
 msgctxt "SubjectivePriors|"
 msgid "Standardized effect size"
@@ -1489,15 +1492,15 @@ msgstr ""
 
 msgctxt "SubjectivePriors|"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 msgctxt "SubjectivePriors|"
 msgid "Cauchy"
-msgstr ""
+msgstr "Cauchy"
 
 msgctxt "SubjectivePriors|"
 msgid "scale"
-msgstr ""
+msgstr "ölçek"
 
 msgctxt "SubjectivePriors|"
 msgid "Informed"
