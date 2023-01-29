@@ -574,11 +574,11 @@ msgstr ""
 
 msgctxt "FactorsForm|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "FactorsForm|"
 msgid "-"
-msgstr ""
+msgstr "_"
 
 #, qt-format
 msgctxt "BreadCrumbs|"
@@ -797,7 +797,7 @@ msgstr ""
 
 msgctxt "PrefsResults|"
 msgid "Plot options"
-msgstr ""
+msgstr "Grafik seçenekleri"
 
 msgctxt "PrefsResults|"
 msgid "Use PPI of screen in plots: "
@@ -813,11 +813,11 @@ msgstr ""
 
 msgctxt "PrefsResults|"
 msgid "Image background color"
-msgstr ""
+msgstr "Görsel arka plan rengi"
 
 msgctxt "PrefsResults|"
 msgid "White"
-msgstr ""
+msgstr "Beyaz"
 
 msgctxt "PrefsResults|"
 msgid ""
@@ -827,7 +827,7 @@ msgstr ""
 
 msgctxt "PrefsResults|"
 msgid "Transparent"
-msgstr ""
+msgstr "Şeffaf"
 
 msgctxt "PrefsResults|"
 msgid ""
@@ -837,11 +837,11 @@ msgstr ""
 
 msgctxt "PrefsUI|"
 msgid "Fonts"
-msgstr ""
+msgstr "Yazı Tipleri"
 
 msgctxt "PrefsUI|"
 msgid "Interface:"
-msgstr ""
+msgstr "Arayüz"
 
 #, qt-format
 msgctxt "PrefsUI|"
@@ -850,7 +850,7 @@ msgstr ""
 
 msgctxt "PrefsUI|"
 msgid "Themes"
-msgstr ""
+msgstr "Tema"
 
 msgctxt "PrefsUI|"
 msgid ""
@@ -869,7 +869,7 @@ msgstr ""
 
 msgctxt "PrefsUI|"
 msgid "Zoom (%): "
-msgstr ""
+msgstr "Yakınlaştır (%):"
 
 msgctxt "PrefsUI|"
 msgid ""
@@ -1026,12 +1026,12 @@ msgstr ""
 #, qt-format
 msgctxt "OperatorSelector|"
 msgid "And: %1"
-msgstr ""
+msgstr "Ve: %1"
 
 #, qt-format
 msgctxt "OperatorSelector|"
 msgid "Or: %1"
-msgstr ""
+msgstr "Veya: %1"
 
 msgctxt "OperatorSelector|"
 msgid "Split: applies filter separately to each subgroup"
@@ -1040,22 +1040,22 @@ msgstr ""
 #, qt-format
 msgctxt "OperatorSelector|"
 msgid "not: %1"
+msgstr "%1 değil"
+
+msgctxt "OperatorSelectorComputedColumns|"
+msgid "Toplama"
 msgstr ""
 
 msgctxt "OperatorSelectorComputedColumns|"
-msgid "Addition"
+msgid "Çıkarma"
 msgstr ""
 
 msgctxt "OperatorSelectorComputedColumns|"
-msgid "Subtraction"
+msgid "Çarpma"
 msgstr ""
 
 msgctxt "OperatorSelectorComputedColumns|"
-msgid "Multiplication"
-msgstr ""
-
-msgctxt "OperatorSelectorComputedColumns|"
-msgid "Division"
+msgid "Bölme"
 msgstr ""
 
 msgctxt "OperatorSelectorComputedColumns|"
@@ -1064,7 +1064,7 @@ msgstr ""
 
 msgctxt "OperatorSelectorComputedColumns|"
 msgid "Square root"
-msgstr ""
+msgstr "Karekök"
 
 #, qt-format
 msgctxt "OperatorSelectorComputedColumns|"
@@ -3686,55 +3686,55 @@ msgstr ""
 #, qt-format
 msgctxt "JASPControl|"
 msgid "2 controls have the same name: %1"
-msgstr ""
+msgstr "İki kontrol aynı ada sahip '%1'"
 
 #, qt-format
 msgctxt "JASPControl|"
 msgid "A control and a formula have the same name '%1'"
-msgstr ""
+msgstr "Bir kontrol ve formül aynı ada sahip '%1'"
 
 #, qt-format
 msgctxt "RSyntax|"
 msgid "Formula with name '%1' is defined twice"
-msgstr ""
+msgstr "'%1'adlı formül iki kez tanımlandı"
 
 #, qt-format
 msgctxt "RSyntax|"
 msgid "A control and a formula have the same name '%1'"
-msgstr ""
+msgstr "Bir kontrol ve formül aynı ada sahip '%1'"
 
 msgctxt "RCommander|"
 msgid "Analysis not found"
-msgstr ""
+msgstr "Analiz bulunamadı"
 
 msgctxt "RCommander|"
 msgid "Not an analysis function: <module name>::<analysis name>(...)"
-msgstr ""
+msgstr "Analiz işlevi değil"
 
 msgctxt "RCommander|"
 msgid "R is (re)starting"
-msgstr ""
+msgstr "R (yeniden) başlıyor"
 
 #, qt-format
 msgctxt "RCommander|"
 msgid "R is installing or loading a module %1"
-msgstr ""
+msgstr "R bir modül kuruyor veya yüklüyor %1"
 
 msgctxt "RCommander|"
 msgid "R stopped"
-msgstr ""
+msgstr "R durdu"
 
 msgctxt "RCommander|"
 msgid "R awaits commands"
-msgstr ""
+msgstr "R komutları bekliyor"
 
 msgctxt "AnalysisForm|"
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 msgctxt "JASPControl|"
 msgid "Variables List"
-msgstr ""
+msgstr "Değişken Listesi"
 
 msgctxt "JASPControl|"
 msgid "DropDown"
@@ -3742,49 +3742,49 @@ msgstr ""
 
 msgctxt "JASPControl|"
 msgid "Tab View"
-msgstr ""
+msgstr "Sekme Görünümü"
 
 msgctxt "JASPControl|"
 msgid "Variables Form"
-msgstr ""
+msgstr "Değişken Formu"
 
 msgctxt "Form|"
 msgid "Show all options"
-msgstr ""
+msgstr "Tüm seçenekleri göster"
 
 msgctxt "RibbonModel|"
 msgid "R console"
-msgstr ""
+msgstr "R konsolu"
 
 msgctxt "RCommander|"
 msgid " and "
-msgstr ""
+msgstr " ve "
 
 msgctxt "RCommander|"
 msgid "has unselected module"
-msgstr ""
+msgstr "seçili olmayan modül var"
 
 msgctxt "RCommander|"
 msgid "has selected module "
-msgstr ""
+msgstr " modülü seçildi"
 
 msgctxt "CurrentDataFile|"
 msgid "Click on the file below to synchronize or use "
-msgstr ""
+msgstr "Senkronize etmek veya kullanmak için aşağıdaki dosyaya tıklayın "
 
 #, qt-format
 msgctxt "ListModelAssignedInterface|"
 msgid "This variable has been removed, because it is not allowed: %1"
-msgstr ""
+msgstr "Bu değişkene izin verilmediği için kaldırıldı: %1"
 
 #, qt-format
 msgctxt "ListModelAssignedInterface|"
 msgid "These variables have been removed, because they are not allowed: %1"
-msgstr ""
+msgstr "Bu değişkenlere izin verilmediği için kaldırıldı: %1"
 
 msgctxt "PrefsData|"
 msgid "Assume CSV is the selected codepage, when no BOM is specified."
-msgstr ""
+msgstr "BOM belirtilmediğinde CSV'nin seçili kod sayfası olduğunu varsayın."
 
 msgctxt "PrefsData|"
 msgid "Choose codepage here"
